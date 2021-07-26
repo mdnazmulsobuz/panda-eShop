@@ -1,6 +1,12 @@
 .panda-bg{
     background-color: #FCEAE8;
 }
+.panda-bg img{
+    margin-top: 30px;
+}
+.banner-area{
+    margin-top: 40px;
+}
 .categories img{
     width: 100px;
 }
@@ -25,4 +31,7 @@
 }
 .panda-buy-now:hover{
     color: #fff;
+}
+footer a{
+    text-decoration: none;
 }
